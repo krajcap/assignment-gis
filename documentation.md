@@ -10,7 +10,7 @@ Táto aplikácia zobrazuje miesta pre večernú zábavu (bary, puby, nočné klu
 
 Takto to vyzerá v akcii:
 
-![Screenshot](screenshot.PNG)
+![Screenshot](screenshot.png)
 
 Aplikácia pozostáva z dvoch častí. Prvá je [frontend](#frontend) (klientská časť), ktorý používa mapbox API a mapbox.js. Druhá je [backend](#backend), ktorý je naprogramovaný v Jave a komunikuje s databázou PostGIS prostredníctvom JDBC konektora. Komunikácia medzi týmito dvomi časťami je zabezpečená pomocou [REST API](#api).
 
